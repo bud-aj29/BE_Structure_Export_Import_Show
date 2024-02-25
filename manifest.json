@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Show the structure export and import buttons always",
+        "name": "Structure_Export_Import_Show_v0.0.1",
+        "uuid": "f2d47c23-47d0-413e-9a20-8e78f0f7771a",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "48023137-9d28-47d8-beb5-8f7842534287",
+            "version": [0, 0, 1]
+        }
+    ]
+}

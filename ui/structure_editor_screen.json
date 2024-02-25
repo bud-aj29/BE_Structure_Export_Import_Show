@@ -1,0 +1,19 @@
+{
+  "namespace": "structure_editor",
+
+  "button_panel_wrapper/panel/save_panel": {
+                "ignored": 0 //change boolean to static false. default="(not $file_picking_supported)"
+  },
+  "button_panel_wrapper/panel/save_panel_no_export": {
+                "ignored": 1 //change boolean to static true. default="($file_picking_supported)"
+  },
+  "button_panel_wrapper/panel/corner_panel": {
+                "ignored": 0 //change boolean to static false. default="(not $file_picking_supported)"
+  },
+  "button_panel_wrapper/panel/load_panel_no_export": {
+                "ignored": 1 //change boolean to static true. default="($file_picking_supported)"
+  },
+  "button_panel_wrapper/panel/load_panel": {
+                "ignored": 0 //change boolean to static false. default="(not $file_picking_supported)"
+  }
+}
