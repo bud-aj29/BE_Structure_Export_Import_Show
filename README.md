@@ -1,0 +1,3 @@
+- Last tested on 1.20.60
+- Show the structure export and import buttons always in the structure block menu
+- No guarantee that the button's function properly on all devices. The file access is up to the device and operating system creators. I can't fix that problem for you!
